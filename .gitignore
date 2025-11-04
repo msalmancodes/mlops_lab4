@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset cache
+.cache/
+cache/
+
+# HuggingFace cache
+~/.cache/huggingface/
+
+# Output artifacts (optional - you might want to commit these)
+# output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment variables
+.env

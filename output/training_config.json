@@ -1,0 +1,9 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "dataset_name": "ag_news",
+  "block_size": 256,
+  "batch_size": 16,
+  "seed": 42,
+  "max_samples": null,
+  "timestamp": "2025-11-03T22:29:15.996703"
+}

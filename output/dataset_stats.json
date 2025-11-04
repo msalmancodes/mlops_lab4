@@ -1,0 +1,8 @@
+{
+  "train_samples": 24853,
+  "val_samples": 1562,
+  "train_tokens": 6362368,
+  "val_tokens": 399872,
+  "vocab_size": 30522,
+  "batches_per_epoch": 1554
+}
